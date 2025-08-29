@@ -1,0 +1,9 @@
+<title>{{ .Page.Title }} - {{ .Site.Title }}</title>
+<meta name="description" content="{{ .Params.description }}">
+<meta name="keywords" content=" {{ .Site.Params.keywords }}">
+{{ if ne .Page.Kind "404" }}
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="{{ .Permalink | absLangURL }}" />
+{{ else}}
+<meta name="robots" content="noindex, nofollow">
+{{ end }}
