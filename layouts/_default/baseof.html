@@ -13,9 +13,14 @@
     {{ $css := slice (resources.Get "/css/bootstrap.css" | minify) (resources.Get "/css/fonts.css" | minify) (resources.Get "/css/style.css" | minify) | resources.Concat "css/bundle.css" | fingerprint }}
     <link rel="stylesheet" href="{{ $css.RelPermalink }}">
     {{ else }}
-    <link rel="stylesheet" href="/css/bootstrap.css?{{ now.Unix }}">
-    <link rel="stylesheet" href="/css/fonts.css?{{ now.Unix }}">
-    <link rel="stylesheet" href="/css/style.css?{{ now.Unix }}">
+		<link rel="stylesheet" href="/css/bootstrap.css?{{ now.Unix }}">
+		<link rel="stylesheet" href="/css/font-awesome-pro.css?{{ now.Unix }}">
+		<link rel="stylesheet" href="/css/magnific-popup.css?{{ now.Unix }}">
+		<link rel="stylesheet" href="/css/swiper.css">
+		<link rel="stylesheet" href="/css/ion.rangeSlider.min.css?{{ now.Unix }}">
+		<link rel="stylesheet" href="/css/flatpicker-min.css?{{ now.Unix }}">
+		<link rel="stylesheet" href="/css/animate.min.css?{{ now.Unix }}">
+		<link rel="stylesheet" href="/css/style.css?{{ now.Unix }}">    
     {{ end }}
   </head>
   <body>
