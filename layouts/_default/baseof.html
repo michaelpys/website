@@ -49,11 +49,24 @@
 
     <!-- Javascript-->
     {{ if eq (getenv "HUGO_ENV") "production" }}
-      {{ $js := slice (resources.Get "/js/jquery.js") (resources.Get "/js/main.js" | minify |) | resources.Concat "js/bundle.js" | fingerprint }}
+      {{ $js := slice (resources.Get "/js/jquery.js") (resources.Get "/js/main.js" | minify |) (resources.Get "/js/jquery.magnific-popup.min.js" | minify |) | resources.Concat "js/bundle.js" | fingerprint }}
       <script src="{{ $js.RelPermalink }}" async defer></script>
     {{ else }}
       <script src="/js/jquery.js?{{ now.Unix }}"></script>
-      <script src="/js/main.js?{{ now.Unix }}"></script>      
+      <script src="/js/vendor/waypoints.js?{{ now.Unix }}"></script>
+      <script src="/js/bootstrap-bundle.js?{{ now.Unix }}"></script>
+      <script src="/js/jquery.magnific-popup.min.js?{{ now.Unix }}"></script>
+      <script src="/js/jquery.counterup.min.js?{{ now.Unix }}"></script>
+      <script src="/js/ion.rangeSlider.min.js?{{ now.Unix }}"></script>
+      <script src="/js/nice-select.js?{{ now.Unix }}"></script>
+      <script src="/js/parallax-scroll.js?{{ now.Unix }}"></script>
+      <script src="/js/parallax.js?{{ now.Unix }}"></script>
+      <script src="/js/jarallax.js?{{ now.Unix }}"></script>
+      <script src="/js/swiper.js?{{ now.Unix }}"></script>
+      <script src="/js/wow.min.js?{{ now.Unix }}"></script>
+      <script src="/js/flatpicker.js?{{ now.Unix }}"></script>
+      <script src="/js/ajax-form.js?{{ now.Unix }}"></script> 
+      <script src="/js/main.js?{{ now.Unix }}"></script>                 
     {{ end }}
     {{ block "script" . }} {{ end }}
   </body>
