@@ -5,8 +5,7 @@
   publish = "public"
 
   # Default build command.
-  command = "hugo --minify"
+  command = "hugo"
 
 [context.production]
   environment = { HUGO_VERSION = "0.148.2", HUGO_ENV = "production" }
-  
