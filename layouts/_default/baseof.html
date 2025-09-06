@@ -9,7 +9,7 @@
     {{ partial "seo.html" . }}
 
     <!-- Stylesheets-->
-    {{ if eq (getenv "HUGO_ENV") "production" }}
+    {{ if eq (getenv "HUGO_ENV") "prod" }}
     {{ $css := slice (resources.Get "/css/bootstrap.css" | minify) (resources.Get "/css/fonts.css" | minify) (resources.Get "/css/style.css" | minify) | resources.Concat "css/bundle.css" | fingerprint }}
     <link rel="stylesheet" href="{{ $css.RelPermalink }}">
     {{ else }}
@@ -53,7 +53,7 @@
     {{ partial "footer.html" . }}
 
     <!-- Javascript-->
-    {{ if eq (getenv "HUGO_ENV") "production" }}
+    {{ if eq (getenv "HUGO_ENV") "prod" }}
       {{ $js := slice (resources.Get "/js/jquery.js") (resources.Get "/js/main.js" | minify |) (resources.Get "/js/jquery.magnific-popup.min.js" | minify |) | resources.Concat "js/bundle.js" | fingerprint }}
       <script src="{{ $js.RelPermalink }}" async defer></script>
     {{ else }}
