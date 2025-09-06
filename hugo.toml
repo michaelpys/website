@@ -1,3 +1,4 @@
+assetDir = "static"
 baseURL = 'https://michaelpys.com'
 languageCode = 'en-us'
 title = 'Micheal Pys Headache and Pain Clinic'
