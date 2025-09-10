@@ -1,0 +1,14 @@
+{{ define "main" }}
+    <div class="team-details-area pt-120 pb-120">
+    <div class="container">
+        <div class="row justify-content-center">
+        <div class="col-lg-11">
+
+            <div class="cm-team-about-details-content">
+            {{ .Content | replaceRE  "<ul>" "<ul class=\"list-marked\">" | safeHTML }}
+            </div>
+        </div>
+        </div>
+    </div>
+    </div>
+{{end}}
