@@ -2,3 +2,7 @@ assetDir = "static"
 baseURL = 'https://michaelpys.com'
 languageCode = 'en-us'
 title = 'Micheal Pys Headache and Pain Clinic'
+disableKinds = ['taxonomy']
+canonifyurls = true
+[markup.goldmark.renderer]
+    unsafe = true 

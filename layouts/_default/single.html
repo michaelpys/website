@@ -5,7 +5,7 @@
         <div class="col-lg-11">
 
             <div class="cm-team-about-details-content">
-            {{ .Content | replaceRE  "<ul>" "<ul class=\"list-marked\">" | safeHTML }}
+            {{ .Content | safeHTML }}
             </div>
         </div>
         </div>
