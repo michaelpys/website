@@ -1,0 +1,23 @@
+{{ define "main" }}
+  <div class="cm-blog-area pt-120 pb-90">
+    <div class="container">
+      <div class="row">
+       {{ range .Pages }}
+        <div class="col-lg-4 col-md-6 mb-30">
+          <div class="cm-blog-wrap">
+            <div class="cm-blog-thumb fix mb-25 c-relative">
+              {{ $image := resources.Get .Params.listImage }}
+              {{ with $image }}
+              <img src="{{ (.Resize " 370x webp q50").Permalink }}" alt="{{ $.Page.Title }}" />
+              {{ end }}  
+            </div>
+            <div class="cm-blog-content pb-30 mb-10">
+              <h2 class="cm-blog-title mb-15"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            </div>
+          </div>
+        </div>
+      {{ end }}
+      </div>
+    </div>
+  </div>
+{{end}}

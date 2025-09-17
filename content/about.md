@@ -1,4 +1,9 @@
 
+---
+title: About
+date: 2020-01-01T06:00:00.000+00:00
+---
+
 <h2 class="cm-team-about-details-title mb-20">Beginning</h2>
 <p class="mb-30">In 1990, I moved to the United States and eventually met my future wife. After we got married, I worked at a nightclub for a while, 
 but I knew in my heart that it wasn't the life for me. I enrolled in college to improve my English and decided to follow my calling: 

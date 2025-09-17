@@ -1,4 +1,4 @@
-assetDir = "static"
+assetDir = 'static'
 baseURL = 'https://inquisitive-longma-ab1c7d.netlify.app'
 languageCode = 'en-us'
 title = 'Micheal Pys Headache and Pain Clinic'

@@ -1,3 +1,8 @@
+---
+title: Contact
+date: 2020-01-01T06:00:00.000+00:00
+---
+
 <div class="cm-contact-area pt-120">
 <div class="container">
     <div class="row">

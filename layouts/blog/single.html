@@ -1,0 +1,24 @@
+{{ define "main" }}
+  <div class="cm-postbox-area pt-120 pb-40">
+    <div class="container">
+        <div class="row">
+          <div class="col-xl-9 col-lg-8 mb-40">
+              <div class="cm-postbox-wrapper cm-postbox-wrapper-space">
+                <div class="cm-postbox-item mb-60">
+                    <div class="cm-postbox-thumb mb-60">
+                      <h1 class="cm-team-about-details-title mb-20">{{.Title}}</h1>
+                      {{ $image := resources.Get .Params.listImage }}
+                      {{ with $image }}
+                      <img class="w-100 border-12" src="{{ (.Resize " 740x webp q50").Permalink }}" alt="{{ $.Page.Title }}" />
+                      {{ end }}                        
+                    </div>
+                    <div class="cm-postbox-content-2">
+                      <p>{{.Content }}</p>
+                    </div>
+                </div>
+              </div>
+          </div>
+        </div>
+    </div>
+  </div>                    
+{{end}}
