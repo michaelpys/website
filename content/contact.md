@@ -24,7 +24,7 @@ date: 2020-01-01T06:00:00.000+00:00
         </div>
         <div class="cm-contact-info-content">
             <h3>email</h3>
-            <a href="mailto:michaelpys@aol.com">michaelpys@aol.com</a>
+            <a href="mailto:pysmichael@gmail.com">pysmichael@gmail.com</a>
         </div>
         </div>
     </div>
@@ -55,7 +55,7 @@ date: 2020-01-01T06:00:00.000+00:00
                     </div>
                     <div class="cm-contact-2-info">
                         <a class="cm-contact-tel" href="tel:+8477703332">+847-770-3332</a>
-                        <a class="cm-contact-email" href="mailto:michaelpys@aol.com">michaelpys@aol.com</a>
+                        <a class="cm-contact-email" href="mailto:pysmichael@gmail.com">pysmichael@gmail.com</a>
                     </div>
                 </div>
             </div>
