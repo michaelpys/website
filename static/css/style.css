@@ -1251,9 +1251,9 @@ span {
   }
 }
 @media (max-width: 575.98px) {
-  .logo img {
+  /*.logo img {
     width: 140px;
-  }
+  }*/
   .header-top-area {
     padding: 8px 0;
   }
