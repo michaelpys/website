@@ -3,14 +3,7 @@ title: Testimonials
 date: 2020-01-01T06:00:00.000+00:00
 ---
 
-{{< youtube Qfs9B8Fdvks >}}
+{{< youtube l5V0TxDA5Vo >}}
 {{< break >}}
-{{< youtube AiFGGVMnd30 >}}
-{{< break >}}
-{{< youtube T0CP97tHj5g >}}
-{{< break >}}
-{{< youtube GSUfKW1cmEA >}}
-{{< break >}}
-{{< youtube Pf0pnaJh0k4 >}}
-{{< break >}}
-{{< youtube DO2i3rZ5kZ8 >}}
+
+Watch more patient success stories on our <a href="https://www.youtube.com/@michaelpys364/videos" target="_blank">YouTube channel</a>.
