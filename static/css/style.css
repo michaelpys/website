@@ -8667,3 +8667,7 @@ p.checkout-coupon input[type=text]::placeholder {
       right: 100%;
 	  }
 }
+
+.hidden {
+  display: none;
+}

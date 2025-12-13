@@ -62,8 +62,13 @@ date: 2020-01-01T06:00:00.000+00:00
             <div class="col-lg-7">
                 <div class="main-apoinment cm-main-apoinment wow fadeInRight" data-wow-delay=".3s" data-wow-duration="1s">
                     <div class="form-here">
-                        <form name="contact" data-netlify-recaptcha="true" data-netlify="true">     
-                            <div class="row">                   
+                        <form name="contact" netlify-honeypot="bot-field" data-netlify="true">     
+                            <div class="row">
+                                <div class="hidden">
+                                    <label>
+                                    Don’t fill this out if you’re human: <input name="bot-field" type="text" />
+                                    </label>
+                                </div>                                              
                                 <div class="col-lg-6 mb-30">
                                     <div class="form-colum cm-form-colum-2">
                                         <input type="text" name="name" placeholder="Full Name" required>
@@ -78,8 +83,7 @@ date: 2020-01-01T06:00:00.000+00:00
                                     <div class="form-colum cm-form-colum-2">
                                         <input type="text" name="number" placeholder="Phone Number" required>
                                     </div>
-                                </div>
-                                <div data-netlify-recaptcha="true"></div>
+                                </div>                           
                                 <div class="col-lg-6 mb-30">
                                     <div class="apointment-btn cm-form-button-2">
                                         <button type="submit" class="cm-btn cm-btn-transparent">
