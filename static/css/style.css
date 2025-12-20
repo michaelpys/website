@@ -8671,3 +8671,7 @@ p.checkout-coupon input[type=text]::placeholder {
 .hidden {
   display: none;
 }
+
+.center {
+  text-align: center;
+}
