@@ -112,7 +112,7 @@ h4,
 h5,
 h6 {
   font-family: "Manrope", sans-serif;
-  font-size: 40px;
+  font-size: 30px;
   color: var(--cm-title-color);
   margin: 0;
   font-style: normal;
@@ -8674,4 +8674,8 @@ p.checkout-coupon input[type=text]::placeholder {
 
 .center {
   text-align: center;
+}
+
+.bold {
+  font-weight: bold;
 }

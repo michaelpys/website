@@ -2,6 +2,7 @@
 title: 'The Headache Epidemic You Didn''t Sign Up For'
 date: 2025-08-09T10:26:00.000-05:00
 listImage: /images/uploads/the-headache-epidemic-you-didnt-sign-up-for.jpg
+draft: true
 ---
 
 Picture this: It's Monday morning, you're sipping your coffee, and bam—there it is again. That

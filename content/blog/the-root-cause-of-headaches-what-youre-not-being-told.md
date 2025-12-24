@@ -2,6 +2,7 @@
 title: 'The Root Cause of Headaches: What You''re Not Being Told'
 date: 2025-08-09T10:26:00.000-05:00
 listImage: /images/uploads/the-root-cause-of-headaches-what-youre-not-being-told.jpg
+draft: true
 ---
 
 Head pain is your body's way of sending a message: something needs attention. But instead of listening to that message, we often silence it with medication—numbing the pain and mistaking that for a cure.
