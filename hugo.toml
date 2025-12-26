@@ -1,7 +1,7 @@
 assetDir = 'static'
-baseURL = 'https://inquisitive-longma-ab1c7d.netlify.app'
+baseURL = 'https://michaelpys.com'
 languageCode = 'en-us'
-title = 'Micheal Pys Headache and Pain Clinic'
+title = 'Micheal Pys Headache and Pain Center'
 disableKinds = ['taxonomy']
 canonifyurls = true
 [markup.goldmark.renderer]

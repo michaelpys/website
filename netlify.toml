@@ -8,4 +8,4 @@
   command = "hugo"
 
 [context.production]
-  environment = { HUGO_VERSION = "0.148.2", HUGO_ENV = "production" }
+  environment = { HUGO_VERSION = "0.153.2", HUGO_ENV = "production" }

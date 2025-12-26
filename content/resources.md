@@ -4,7 +4,7 @@ title: About
 date: 2020-01-01T06:00:00.000+00:00
 ---
 
-<h2 class="cm-team-about-details-title mb-20">Global Research about benefits of Osteopathic manual therapy for headaches and migraine.</h2>
+<h2 class="cm-team-about-details-title mb-20">Global Research</h2>
 <p class="mb-30">
 For many years, countries around the world have been studying hands-on osteopathic treatment for people with headaches and migraines. The techniques differ from place to place, but the results repeatedly show the same thing: when the upper neck is treated properly, people usually feel better. Headaches become less frequent, the pain is not as strong, and many people are able to cut down on medication.
 <br /><br />
