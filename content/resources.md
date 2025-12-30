@@ -25,5 +25,5 @@ A large amount of research on Osteopathic Manual Therapy from around the world c
 a) "the osteopathic manual therapy (OMM) (OMT) intervention group had a significant decrease in symptoms"<br />
 b) Osteopathic Manual Therapy "revealed a notable significant difference in treatment groups, including decreased measures of migraine severity or pain"
 <br /><br />
-Please download PDF with studies from around the world: <a href="/assets/pys-headache-method-resources.pdf" target="_blank">Pys Headache Method Resources</a>
+Please download PDF with studies from around the world: <b><a href="/assets/pys-headache-method-resources.pdf" target="_blank">Pys Headache Method Resources</a></b>
 </p>
