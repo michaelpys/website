@@ -1,7 +1,8 @@
 
 ---
-title: Resources
+title: "Headache & Pain Research Resources"
 date: 2020-01-01T06:00:00.000+00:00
+description: "Explore research and educational information on hands-on osteopathic manual therapy, upper neck treatment studies, and evidence supporting manual therapy for headaches, migraines, and chronic pain."
 ---
 
 <h2 class="cm-team-about-details-title mb-20">Global Research</h2>

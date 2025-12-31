@@ -1,5 +1,5 @@
 <title>{{ .Page.Title }} - {{ .Site.Title }}</title>
-<meta name="description" content="{{ .Params.description }}">
+<meta name="description" content="{{ .Params.description | default .Description | default .Site.Params.description }}">
 <meta name="keywords" content="{{ .Site.Params.keywords }}">
 {{ if ne .Page.Kind "404" }}
 <meta name="robots" content="index, follow">

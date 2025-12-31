@@ -1,7 +1,8 @@
 ---
-title: FAQ
+title: "Headache & Pain Therapy FAQs"
 date: 2020-01-01T06:00:00.000+00:00
 layout: faq
+description: "Find answers to common questions about the Pys Headache Method, treatment expectations, therapy frequency, posture tips, and how osteopathic manual therapy can help reduce headache and neck pain."
 ---
 
 <div class="col-lg-6 mb-60">

@@ -1,7 +1,8 @@
 
 ---
-title: About
+title: "Osteopathic Manual Therapist & Headache Specialist"
 date: 2020-01-01T06:00:00.000+00:00
+description: "Learn about Michael Pys, his hands-on osteopathic manual therapy approach, and over 30 years of experience treating headaches, chronic pain, and musculoskeletal dysfunction to help patients restore comfort and movement."
 ---
 
 <h2 class="cm-team-about-details-title mb-20">Message from Michael Pys</h2>

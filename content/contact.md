@@ -1,6 +1,7 @@
 ---
-title: Contact
+title: "Contact Michael Pys"
 date: 2020-01-01T06:00:00.000+00:00
+description: "Get in touch with Michael Pys Neuromuscular Pain Clinic to schedule an appointment, find office contact details, and learn how to reach the clinic for personalized pain relief and support."
 ---
 
 <div class="cm-contact-area">

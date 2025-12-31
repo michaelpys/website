@@ -1,7 +1,8 @@
 
 ---
-title: New Patient
+title: "New Patient Information"
 date: 2020-01-01T06:00:00.000+00:00
+description: "Prepare for your first visit at Michael Pys Neuromuscular Pain Clinic with helpful new patient instructions, appointment information, and tips on what to bring for an efficient and effective consultation."
 ---
 
 <h2 class="cm-team-about-details-title mb-20">New Patient</h2>
