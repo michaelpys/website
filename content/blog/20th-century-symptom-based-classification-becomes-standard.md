@@ -1,7 +1,9 @@
 ---
-title: '20th Century: Symptom-Based Classification Becomes Standard'
+title: "Symptom‑Based Headache Classification"
+name: "20th Century: Symptom-Based Classification Becomes Standard"
 date: 2025-08-09T10:26:00.000-05:00
-listImage: /uploads/20th-century-symptom-based-classification-becomes-standard.png
+listImage: "/uploads/20th-century-symptom-based-classification-becomes-standard.png"
+description: "Explore how symptom‑based headache classification became the standard, why it may miss underlying causes, and how a deeper structural assessment can improve diagnosis and care."
 ---
 
 By the mid-20th century, with the rise of pharmacology, strict definitions became important for drug trials. The International Headache Society (IHS) published the first International Classification of Headache Disorders (ICHD) in 1988. It set criteria for diagnosing migraines, tension-type headaches, and others — entirely based on symptoms such as duration, frequency, pain quality, and associated features.

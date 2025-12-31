@@ -8,11 +8,11 @@
             <div class="cm-blog-thumb fix mb-25 c-relative">
               {{ $image := resources.Get .Params.listImage }}
               {{ with $image }}
-              <img src="{{ (.Resize " 370x webp q50").Permalink }}" alt="{{ $.Page.Title }}" />
+              <img src="{{ (.Resize " 370x webp q50").Permalink }}" alt="{{ .Params.name }}" />
               {{ end }}  
             </div>
             <div class="cm-blog-content pb-30 mb-10">
-              <h2 class="cm-blog-title mb-15"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+              <h2 class="cm-blog-title mb-15"><a href="{{ .Permalink }}">{{ .Params.name }}</a></h2>
             </div>
           </div>
         </div>

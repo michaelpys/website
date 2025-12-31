@@ -1,7 +1,7 @@
 assetDir = 'static'
 baseURL = 'https://michaelpys.com'
 languageCode = 'en-us'
-title = 'Michael Pys Headache and Pain Center'
+title = 'Headache and Pain Center'
 disableKinds = ['taxonomy']
 canonifyurls = true
 enableRobotsTXT = true
@@ -12,4 +12,4 @@ enableRobotsTXT = true
     id = 'G-NPD4MKHW4K'
 [params]
 keywords = "headaches, migranes, chronic pain, pain center"
-description = "Default site description"
+description = "Hands-on osteopathic manual therapy for headaches, neck pain, and chronic musculoskeletal conditions. Michael Pys provides personalized neuromuscular care focused on lasting pain relief and restored movement."

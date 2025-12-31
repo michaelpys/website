@@ -1,7 +1,9 @@
 ---
-title: 'Why Do My Headaches Keep Coming Back?'
+title: "Why Headaches Recur & What Can Help"
+name: "Why Do My Headaches Keep Coming Back?"
 date: 2025-08-09T10:26:00.000-05:00
-listImage: /uploads/why-do-my-headaches-keep-coming-back.png
+listImage: "/uploads/why-do-my-headaches-keep-coming-back.png"
+description: "Find out why headaches can keep returning despite medications, how focusing on structural causes like neck dysfunction can break the cycle, and what long‑term relief looks like."
 ---
 
 **Patient Mary**

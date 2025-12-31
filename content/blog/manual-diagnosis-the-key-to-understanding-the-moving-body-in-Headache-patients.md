@@ -1,7 +1,9 @@
 ---
-title: 'Manual Diagnosis — The Key to Understanding the Moving Body in Headache Patients'
+title: "Manual Diagnosis for Headache Pain"
+name: "Manual Diagnosis — The Key to Understanding the Moving Body in Headache Patients"
 date: 2025-08-09T10:26:00.000-05:00
-listImage: /uploads/manual-diagnosis-the-key-to-understanding-the-moving-body-in-headache-patients.png
+listImage: "/uploads/manual-diagnosis-the-key-to-understanding-the-moving-body-in-headache-patients.png"
+description: "Learn why manual diagnosis is essential for headache patients, how movement evaluation reveals causes missed by imaging, and why hands‑on assessment improves treatment outcomes."
 ---
 
 **Understanding Movement in Diagnosis**
