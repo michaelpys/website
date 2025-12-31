@@ -10,3 +10,5 @@ enableRobotsTXT = true
 [services]
   [services.googleAnalytics]
     id = 'G-NPD4MKHW4K'
+[params]
+keywords = "headaches, migranes, chronic pain, pain center"

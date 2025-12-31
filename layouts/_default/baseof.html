@@ -7,7 +7,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {{ hugo.Generator }}
     {{ partial "seo.html" . }}
-
+    {{ template "_internal/opengraph.html" . }}
+    {{ template "_internal/twitter_cards.html" . }}
+    
     <!-- Stylesheets-->
     {{ if eq (getenv "HUGO_ENV") "prod" }}
     {{ $css := slice (resources.Get "/css/bootstrap.css" | minify) (resources.Get "/css/fonts.css" | minify) (resources.Get "/css/style.css" | minify) | resources.Concat "css/bundle.css" | fingerprint }}
@@ -56,7 +58,7 @@
      {{ if eq (getenv "HUGO_ENV") "production" }}
       {{ template "_internal/google_analytics.html" . }}
      {{ end }}
-     
+
     {{ if eq (getenv "HUGO_ENV") "prod" }}
       {{ $js := slice (resources.Get "/js/jquery.js") (resources.Get "/js/main.js" | minify |) (resources.Get "/js/jquery.magnific-popup.min.js" | minify |) | resources.Concat "js/bundle.js" | fingerprint }}
       <script src="{{ $js.RelPermalink }}" async defer></script>
