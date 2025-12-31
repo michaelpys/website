@@ -1,8 +1,12 @@
 assetDir = 'static'
 baseURL = 'https://michaelpys.com'
 languageCode = 'en-us'
-title = 'Micheal Pys Headache and Pain Center'
+title = 'Michael Pys Headache and Pain Center'
 disableKinds = ['taxonomy']
 canonifyurls = true
+enableRobotsTXT = true
 [markup.goldmark.renderer]
     unsafe = true 
+[services]
+  [services.googleAnalytics]
+    id = 'G-NPD4MKHW4K'

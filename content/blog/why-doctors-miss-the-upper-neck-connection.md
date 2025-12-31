@@ -1,7 +1,7 @@
 ---
 title: 'Why Doctors Miss the Upper Neck Connection'
 date: 2025-08-09T10:26:00.000-05:00
-listImage: /images/uploads/why-doctors-miss-the-upper-neck-connection.png
+listImage: /uploads/why-doctors-miss-the-upper-neck-connection.png
 ---
 
 When most people visit a doctor for a headache, they expect answers. They sit in front of a medical doctor and leave with the same conclusion: "You have migraine" or "You have a tension headache" and they are given a prescription. What they rarely hear is that their pain might begin just inches lower, in the joints of the upper neck.

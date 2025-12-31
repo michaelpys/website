@@ -53,10 +53,15 @@
     {{ partial "footer.html" . }}
 
     <!-- Javascript-->
+     {{ if eq (getenv "HUGO_ENV") "production" }}
+      {{ template "_internal/google_analytics.html" . }}
+     {{ end }}
+     
     {{ if eq (getenv "HUGO_ENV") "prod" }}
       {{ $js := slice (resources.Get "/js/jquery.js") (resources.Get "/js/main.js" | minify |) (resources.Get "/js/jquery.magnific-popup.min.js" | minify |) | resources.Concat "js/bundle.js" | fingerprint }}
       <script src="{{ $js.RelPermalink }}" async defer></script>
     {{ else }}
+      
       <script src="/js/jquery.js?{{ now.Unix }}"></script>
       <script src="/js/vendor/waypoints.js?{{ now.Unix }}"></script>
       <script src="/js/bootstrap-bundle.js?{{ now.Unix }}"></script>

@@ -1,7 +1,7 @@
 ---
 title: 'The Root Cause of Headaches: What You''re Not Being Told'
 date: 2025-08-09T10:26:00.000-05:00
-listImage: /images/uploads/the-root-cause-of-headaches-what-youre-not-being-told.jpg
+listImage: /uploads/the-root-cause-of-headaches-what-youre-not-being-told.jpg
 draft: true
 ---
 

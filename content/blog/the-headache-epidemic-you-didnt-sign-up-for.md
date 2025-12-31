@@ -1,7 +1,7 @@
 ---
 title: 'The Headache Epidemic You Didn''t Sign Up For'
 date: 2025-08-09T10:26:00.000-05:00
-listImage: /images/uploads/the-headache-epidemic-you-didnt-sign-up-for.jpg
+listImage: /uploads/the-headache-epidemic-you-didnt-sign-up-for.jpg
 draft: true
 ---
 

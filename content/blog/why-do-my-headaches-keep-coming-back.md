@@ -1,7 +1,7 @@
 ---
 title: 'Why Do My Headaches Keep Coming Back?'
 date: 2025-08-09T10:26:00.000-05:00
-listImage: /images/uploads/why-do-my-headaches-keep-coming-back.png
+listImage: /uploads/why-do-my-headaches-keep-coming-back.png
 ---
 
 **Patient Mary**

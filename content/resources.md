@@ -1,6 +1,6 @@
 
 ---
-title: About
+title: Resources
 date: 2020-01-01T06:00:00.000+00:00
 ---
 
@@ -14,16 +14,16 @@ In the United States and Canada, similar findings were seen. Patients receiving 
 <br /><br />
 Japan and Australia added their own important work. Japanese research looked at how hands-on work to the upper neck may calm areas of the brain that process pain. Australia contributed strong studies on soft-tissue techniques and movement retraining, again showing clear benefits for tension-type headaches and migraines.
 <br /><br />
-Across all of this worldwide research, one key idea keeps coming up: **the brainstem plays a major role in headaches**. The brainstem is where the nerves from the upper neck and the nerves that carry headache pain all meet. If the neck is irritated, stiff, inflamed, or not moving well, the brainstem becomes over-sensitive. When that happens, even small triggers—stress, light, noise, lack of sleep—can turn into a headache or a migraine.
+Across all of this worldwide research, one key idea keeps coming up: <b>the brainstem plays a major role in headaches</b>. The brainstem is where the nerves from the upper neck and the nerves that carry headache pain all meet. If the neck is irritated, stiff, inflamed, or not moving well, the brainstem becomes over-sensitive. When that happens, even small triggers—stress, light, noise, lack of sleep—can turn into a headache or a migraine.
 <br /><br />
 This is why treating the upper neck is so important. By improving how C0–C3 move and relaxing the tissues around them, the pressure on the brainstem decreases. When the brainstem calms down, headaches naturally lessen.
 <br /><br />
-That simple idea is the foundation of the Pys Headache Method. And what is encouraging is that studies from all around the world—different countries, different schools, different techniques—are all pointing in the same direction: **treat the neck, calm the brainstem, and people with headaches get better**.
+That simple idea is the foundation of the Pys Headache Method. And what is encouraging is that studies from all around the world—different countries, different schools, different techniques—are all pointing in the same direction: <b>treat the neck, calm the brainstem, and people with headaches get better</b>.
 <br /><br />
 A large amount of research on Osteopathic Manual Therapy from around the world can be found online. Almost all of this research concludes:
 <br />
 a) "the osteopathic manual therapy (OMM) (OMT) intervention group had a significant decrease in symptoms"<br />
 b) Osteopathic Manual Therapy "revealed a notable significant difference in treatment groups, including decreased measures of migraine severity or pain"
 <br /><br />
-Please download PDF with studies from around the world: <b><a href="/assets/pys-headache-method-resources.pdf" target="_blank">Pys Headache Method Resources</a></b>
+Please download PDF with studies from around the world: <b><a href="/uploads/pys-headache-method-resources.pdf" target="_blank">>> Pys Headache Method Resources << (click here)</a></b>
 </p>

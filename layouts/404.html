@@ -1,26 +1,20 @@
 {{ define "main" }}
-<section class="section section-single section-404 novi-background bg-overlay-70 novi-background context-dark">
-  <div class="section-single-inner">
-    <header class="section-single-header page-header">
-      <div class="page-head-inner">
+</section>
+<section class="cm-error-area pt-120 pb-120">
+  <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+            <div class="cm-error-wrapper text-center">
+              <div class="cm-error-thumb">
+                  <img class="w-100" src="/assets/img/error/error.jpg" alt="Sorry We Can't Find That Page">
+              </div>
+              <h3 class="cm-error-title">Sorry We Can't Find That Page!</h3>
+              <div class="cm-error-btn">
+                <a class="theme-btn" href="/">Back Home</a>
+              </div>
+            </div>
+        </div>
       </div>
-    </header>
-
-    <div class="section-single-main">
-      <div class="container">
-        <h1 class="title-modern">Page not found<span>404</span></h1>
-        <p class="big text-spacing-25">You may have mistyped the address or the page may have moved.</p>
-        <a class="button button-primary button-ujarak" href="{{ "/" | absURL }}">Go to home page</a>
-      </div>
-    </div>
-    <div class="section-single-footer">
-      <div class="container text-center">
-        <p class="rights">
-          <span>&copy;&nbsp;</span><span class="copyright-year"></span> <span>{{.Site.Title}}</span> All rights reserved
-          <br /><a href="https://jamstacksite.com">JAMStackSite</a>
-        </p>
-      </div>
-    </div>
   </div>
 </section>
 {{end}}
