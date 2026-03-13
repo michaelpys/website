@@ -1,8 +1,8 @@
 ---
-title: "Symptom‑Based Headache Classification"
-name: "20th Century: Symptom-Based Classification Becomes Standard"
+title: "I have migraine but MRI is normal"
+name: "I have migraine but MRI is normal"
 date: 2025-08-09T10:26:00.000-05:00
-listImage: "/uploads/20th-century-symptom-based-classification-becomes-standard.png"
+listImage: "/uploads/i-have-migraine-but-mri-is-normal.png"
 description: "Explore how symptom‑based headache classification became the standard, why it may miss underlying causes, and how a deeper structural assessment can improve diagnosis and care."
 ---
 
