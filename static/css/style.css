@@ -5093,6 +5093,22 @@ span {
 .cm-product-btn a:hover{
   background: var(--cm-title-color);
 }
+.book-promo .book-cover-img {
+  max-width: 250px;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+@media (min-width: 992px) {
+  .book-promo .book-cover-img {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+.book-promo .product-wrapper:hover .product-img img {
+  transform: none;
+}
 /*=============================
 24.cta-area-start
 ===============================*/
