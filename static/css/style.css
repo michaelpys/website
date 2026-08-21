@@ -5109,6 +5109,28 @@ span {
 .book-promo .product-wrapper:hover .product-img img {
   transform: none;
 }
+.book-promo-buy-mobile {
+  margin-top: 20px;
+  text-align: center;
+}
+.book-promo-buy-mobile .about-list-btn,
+.book-promo-buy-mobile .cm-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+@media (max-width: 991.98px) {
+  .book-promo .cm-btn .explore-text {
+    transform: none;
+    transform-style: flat;
+  }
+  .book-promo .cm-btn .explore-text::before {
+    display: none;
+  }
+  .book-promo .cm-about-list-wrap {
+    margin-bottom: 0;
+  }
+}
 /*=============================
 24.cta-area-start
 ===============================*/
